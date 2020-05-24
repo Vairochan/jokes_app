@@ -1,6 +1,18 @@
 # jokes_app_orientation
 
-A new Flutter project.
+A new Flutter project. 
+A simple jokes app, its main motive is to learn the orientation or the presentation data in both mobile phone and in tablet. 
+In mobile if the orientation is potrait the list will route to a new screen as shown below in screen shots,
+## potrait
+<img src="screenshots/1.jpeg" width="250">|<img src="screenshots/2.jpeg" width="250">
+
+but if the orientation is in landscape mode then the list will be displayed on left side and the context of that list will be displayed on the right side
+
+## landscape
+<img src="screenshots/3.jpeg" width="500">|<img src="screenshots/4.jpeg" width="500">
+
+
+A another way of orientation is to view in tablet which has a quite broad screen and has more Pexels thus the way of presentation will be as a landscape presentation in mobile. 
 
 ## Getting Started
 
